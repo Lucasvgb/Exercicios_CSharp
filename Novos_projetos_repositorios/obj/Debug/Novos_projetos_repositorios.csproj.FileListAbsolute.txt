@@ -1,0 +1,8 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\novos_projetos\Novos_projetos_repositorios\Novos_projetos_repositorios\bin\Debug\Novos_projetos_repositorios.exe.config
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\novos_projetos\Novos_projetos_repositorios\Novos_projetos_repositorios\bin\Debug\Novos_projetos_repositorios.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\novos_projetos\Novos_projetos_repositorios\Novos_projetos_repositorios\bin\Debug\Novos_projetos_repositorios.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\novos_projetos\Novos_projetos_repositorios\Novos_projetos_repositorios\obj\Debug\Novos_projetos_repositorios.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\novos_projetos\Novos_projetos_repositorios\Novos_projetos_repositorios\obj\Debug\Novos_projetos_repositorios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\novos_projetos\Novos_projetos_repositorios\Novos_projetos_repositorios\obj\Debug\Novos_projetos_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\novos_projetos\Novos_projetos_repositorios\Novos_projetos_repositorios\obj\Debug\Novos_projetos_repositorios.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\novos_projetos\Novos_projetos_repositorios\Novos_projetos_repositorios\obj\Debug\Novos_projetos_repositorios.pdb
